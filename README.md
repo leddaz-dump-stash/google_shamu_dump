@@ -1,0 +1,14 @@
+# shamu-user 7.1.1 N6F27M 4299435 release-keys
+- manufacturer: motorola
+- platform: msm8084
+- codename: shamu
+- flavor: shamu-user
+- release: 7.1.1
+- id: N6F27M
+- incremental: 4299435
+- tags: release-keys
+- fingerprint: google/shamu/shamu:7.1.1/N6F27M/4299435:user/release-keys
+- is_ab: false
+- brand: google
+- branch: shamu-user-7.1.1-N6F27M-4299435-release-keys
+- repo: google_shamu_dump
